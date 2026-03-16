@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+urllib3
+colorama
+securitytools
+vulndb
+bs4
