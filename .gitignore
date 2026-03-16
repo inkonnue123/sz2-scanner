@@ -1,0 +1,14 @@
+# Python-specific entries
+
+__pycache__/
+*.pyc
+.env
+venv/
+reports/
+
+# Standard entries
+*.log
+*.sqlite
+*.db
+*.py[cod]
+.DS_Store
